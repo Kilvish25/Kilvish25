@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kilvish25
--    I am a student at IIT Delhi.
+- 👋 Hola, Mi llamo Dharmendra aka Kilvish🙂.
+-    I am an undergraduate student pursuing b.tech in **Mathematics and Computing** from Indian Institute of technology, Delhi (IIT Delhi).
 - 👀 I’m interested in Machine Learning, Data Science, Android Development, Blockchain, and AI.
 - 🌱 I’m currently learning Machine Learning and Blockchain.
 - 💞️ I’m looking to collaborate on Blockchain.
